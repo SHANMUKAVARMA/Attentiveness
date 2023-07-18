@@ -1,3 +1,4 @@
 gunicorn
 opencv-python
 dlib
+** cmd commands for downloading and installing opencv : pip install opencv-python and dlib : pip install dlib **
